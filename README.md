@@ -1,5 +1,9 @@
 # Emergent Tool Specialization
 
+<p align="center">
+  <img src="assets/cover.jpeg" alt="Emergent Tool Specialization" width="800"/>
+</p>
+
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/XXXX.XXXXX)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
