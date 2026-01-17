@@ -9,7 +9,7 @@
 
 This repository implements **Emergent Tool Specialization** — a framework where populations of identical LLM agents develop specialized tool expertise through competition alone, without explicit role assignment.
 
-Unlike [Paper 1 (NichePopulation)](https://github.com/HowardLiYH/NichePopulation) which demonstrated emergent specialization with synthetic rules, and [Paper 2 (Emergent-Prompt-Evolution)](https://github.com/HowardLiYH/Emergent-Prompt-Evolution) which showed preference specialization in LLM agents, this work extends to **real, practical tools**:
+Unlike [Paper 1 (NichePopulation)](https://github.com/HowardLiYH/NichePopulation) which demonstrated emergent specialization with synthetic rules, and [Paper 2 (Emergent-Preference-Specialization)](https://github.com/HowardLiYH/Emergent-Preference-Specialization-in-LLM-Agent-Populations) which showed preference specialization in LLM agents, this work extends to **real, practical tools**:
 
 | Level | Tool | Capability | Implementation |
 |-------|------|------------|----------------|
@@ -35,7 +35,7 @@ This is **Paper 3** in the Emergent Specialization research series:
 | Paper | Focus | Domain | Repository |
 |-------|-------|--------|------------|
 | Paper 1 | Learner Populations | Time Series (Rule-based) | [NichePopulation](https://github.com/HowardLiYH/NichePopulation) |
-| Paper 2 | Preference Specialization | Synthetic Rules (LLM) | [Emergent-Prompt-Evolution](https://github.com/HowardLiYH/Emergent-Prompt-Evolution) |
+| Paper 2 | Preference Specialization | Synthetic Rules (LLM) | [Emergent-Preference-Specialization](https://github.com/HowardLiYH/Emergent-Preference-Specialization-in-LLM-Agent-Populations) |
 | **Paper 3** | **Tool Specialization** | **Real Tools (LLM)** | **This repo** |
 
 ## Architecture
@@ -151,7 +151,7 @@ where f=frequency, R=reward, D=difficulty.
 ## Related Work
 
 - **Paper 1**: [NichePopulation](https://github.com/HowardLiYH/NichePopulation) - Emergent specialization in learner populations
-- **Paper 2**: [Emergent-Prompt-Evolution](https://github.com/HowardLiYH/Emergent-Prompt-Evolution) - Preference specialization in LLM agents
+- **Paper 2**: [Emergent-Preference-Specialization](https://github.com/HowardLiYH/Emergent-Preference-Specialization-in-LLM-Agent-Populations) - Preference specialization in LLM agents
 
 ## License
 
@@ -159,4 +159,4 @@ MIT License - see [LICENSE](LICENSE) file.
 
 ## Acknowledgments
 
-This work builds upon the theoretical foundations established in Paper 1 (NichePopulation) and Paper 2 (Emergent-Prompt-Evolution).
+This work builds upon the theoretical foundations established in Paper 1 (NichePopulation) and Paper 2 (Emergent-Preference-Specialization).
